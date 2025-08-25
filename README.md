@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 i'm yuroyumachi
+i'm not a professional programmer
+just code for fun
 
 <!--
 **u6uma7/u6uma7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
