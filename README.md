@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-i'm yuroyumachi
-i'm not a professional programmer
+i'm yuroyumachi.\
+i'm not a professional programmer.\
 just code for fun
 
 <!--
